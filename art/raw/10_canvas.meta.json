@@ -1,0 +1,26 @@
+{
+  "name": "10_canvas",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": "1024x1024",
+  "quality": "high",
+  "inputs": [],
+  "prompt": "A seamless, evenly lit macro photograph of primed artist's linen canvas, warm off-white with a faint cream tint, regular woven texture with slight irregular slubs in the thread, perfectly flat and uniform from edge to edge, no paint strokes, no stains, no vignette, no shadows, no text. Tileable texture.",
+  "revised_prompt": null,
+  "usage": {
+    "input_tokens": 72,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 72
+    },
+    "output_tokens": 915,
+    "output_tokens_details": {
+      "image_tokens": 915,
+      "text_tokens": 0
+    },
+    "total_tokens": 987
+  },
+  "seconds": 22.736,
+  "created": "2026-10-14T05:39:37.041Z",
+  "output": "art/raw/10_canvas.png"
+}

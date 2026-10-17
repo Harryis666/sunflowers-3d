@@ -1,0 +1,28 @@
+{
+  "name": "07_depth",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": "1536x1024",
+  "quality": "high",
+  "inputs": [
+    "art/raw/01_master.png"
+  ],
+  "prompt": "Convert this painting into a clean monocular depth map with exactly the same framing: grayscale only, the nearest blurred foreground elements pure white, the vase and bouquet light-to-mid grey with smooth rounded volume (domed flower heads, cylindrical vase, round stems), the table a smooth gradient from light grey at the bottom to darker grey at the back, and the flat wall the darkest uniform dark grey. Smooth continuous gradients that follow object shapes; no brushstrokes, no texture, no colour, no text.",
+  "revised_prompt": null,
+  "usage": {
+    "input_tokens": 1653,
+    "input_tokens_details": {
+      "image_tokens": 1536,
+      "text_tokens": 117
+    },
+    "output_tokens": 343,
+    "output_tokens_details": {
+      "image_tokens": 343,
+      "text_tokens": 0
+    },
+    "total_tokens": 1996
+  },
+  "seconds": 23.864,
+  "created": "2026-10-14T05:39:38.126Z",
+  "output": "art/raw/07_depth.png"
+}

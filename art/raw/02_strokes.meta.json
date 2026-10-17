@@ -1,0 +1,27 @@
+{
+  "name": "02_strokes",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "transparent",
+  "inputs": [],
+  "prompt": "A specimen sheet of fifteen isolated oil-paint brushstrokes on a fully transparent background, arranged in a loose 5 by 3 grid with generous empty space between every stroke so that no two strokes touch. Each stroke is thick Van Gogh-style impasto in creamy titanium white paint: a single loaded swipe with deep bristle grooves, raised glossy ridges and a ragged dry-brush tail, lit by soft raking light from the upper left so the relief is clearly visible. Varied shapes: short square dabs, long gently curved strokes, comma strokes, tapered petal-like strokes, short hatched marks. Sharp focus, straight-on view, no canvas, no shadow on the background, no text.",
+  "revised_prompt": null,
+  "usage": {
+    "input_tokens": 150,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 150
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+      "image_tokens": 601,
+      "text_tokens": 0
+    },
+    "total_tokens": 751
+  },
+  "seconds": 23.133,
+  "created": "2026-10-14T05:37:57.004Z",
+  "output": "art/raw/02_strokes.png"
+}

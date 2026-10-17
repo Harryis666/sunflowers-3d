@@ -1,0 +1,26 @@
+{
+  "name": "01_master",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": "1536x1024",
+  "quality": "high",
+  "inputs": [],
+  "prompt": "A museum-quality oil painting in the manner of Vincent van Gogh's 'Sunflowers' (Arles, 1888), reimagined as a wide cinematic still life with photographic depth of field.\nCENTER (sharp focus): a rustic two-tone earthenware vase - lower half yellow ochre, upper half pale chrome yellow, outlined in blue-green - standing on a warm ochre table. It holds about fifteen sunflowers at every stage of life: tight green buds, flaming full blooms with spiky orange-yellow petals radiating like small suns, drooping wilted heads with curling petals, and dark bristly seed heads gone to seed; twisting green stems and a few ragged leaves.\nBACKGROUND: a luminous pale lemon-yellow wall built from short hatched directional brushstrokes, with a clear horizontal line where the wall meets the table, lots of empty wall space on both sides of the vase.\nCOLOR: a symphony of more than thirty yellows - lemon yellow, chrome yellow, Naples yellow, yellow ochre, raw sienna, earth yellow - accented with Prussian-blue and viridian contour lines and a few touches of vermilion.\nPAINT: extremely thick impasto; seed heads are crusty, rough and bristling with dabs of paint; every petal is a single loaded stroke with bristle grooves and raised ridges catching the light.\nDEPTH OF FIELD: in the extreme foreground, at the very left edge, right edge and bottom edge, large out-of-focus sunflower petals, a leaf and a fallen sunflower head are softly blurred like a macro lens bokeh, framing the scene. The vase and bouquet stay crisp.\nNo text, no signature, no letters, no frame, no border.",
+  "revised_prompt": null,
+  "usage": {
+    "input_tokens": 356,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 356
+    },
+    "output_tokens": 343,
+    "output_tokens_details": {
+      "image_tokens": 343,
+      "text_tokens": 0
+    },
+    "total_tokens": 699
+  },
+  "seconds": 21.33,
+  "created": "2026-10-14T05:37:55.206Z",
+  "output": "art/raw/01_master.png"
+}

@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "encoding": "base64",
+  "wrap": 100,
+  "files": [
+    {
+      "path": "public/assets/bg.webp",
+      "group": "site textures",
+      "bytes": 366452,
+      "sha256": "81f768835f908d291aaec76e15958d2f84ee177a1ee53c524b78d43f3a911254",
+      "parts": [
+        "assets-encoded/public__assets__bg.webp.b64"
+      ]
+    },
+    {
+      "path": "public/assets/canvas.webp",
+      "group": "site textures",
+      "bytes": 91616,
+      "sha256": "e802f79dafb0c4d6f9ea54a5569c082d3f4c390e894bfe29f11032f7a7a7ee3c",
+      "parts": [
+        "assets-encoded/public__assets__canvas.webp.b64"
+      ]
+    },
+    {
+      "path": "public/assets/fg.webp",
+      "group": "site textures",
+      "bytes": 50898,
+      "sha256": "c698971b0351066f8c989a559424044dbf8114d10e588a916c985825d9821b2c",
+      "parts": [
+        "assets-encoded/public__assets__fg.webp.b64"
+      ]
+    },
+    {
+      "path": "public/assets/master.webp",
+      "group": "site textures",
+      "bytes": 331786,
+      "sha256": "555f548b0e0aba85f6b58f317a632d246e3a742295f5c06feb86ce4085d4dceb",
+      "parts": [
+        "assets-encoded/public__assets__master.webp.b64"
+      ]
+    },
+    {
+      "path": "public/assets/mid.webp",
+      "group": "site textures",
+      "bytes": 273568,
+      "sha256": "a3113738820f1b0cb2a32fa91095713db8e159a4e9ce74d5559fa0ce1be8187a",
+      "parts": [
+        "assets-encoded/public__assets__mid.webp.b64"
+      ]
+    },
+    {
+      "path": "public/assets/mid_form.webp",
+      "group": "site textures",
+      "bytes": 3434,
+      "sha256": "da79cda16a1aaf887865d452799eafb5ae4130ba8fa1413782562d4c1c597766",
+      "parts": [
+        "assets-encoded/public__assets__mid_form.webp.b64"
+      ]
+    },
+    {
+      "path": "public/assets/petals.webp",
+      "group": "site textures",
+      "bytes": 118012,
+      "sha256": "340cf323b53448e6a043c3001b3eb3e2d12d60d103219e038fcec893e6fe149d",
+      "parts": [
+        "assets-encoded/public__assets__petals.webp.b64"
+      ]
+    },
+    {
+      "path": "public/assets/seedhead.webp",
+      "group": "site textures",
+      "bytes": 287770,
+      "sha256": "73dff8b30e262a912cac5506aeb5b9869fd36344783159661b71974c50a2f2b0",
+      "parts": [
+        "assets-encoded/public__assets__seedhead.webp.b64"
+      ]
+    },
+    {
+      "path": "public/assets/strokes.webp",
+      "group": "site textures",
+      "bytes": 153044,
+      "sha256": "09bcec78b9a93be46514c3309723a038ff8022ea5ff109540b860acfb8dc9fea",
+      "parts": [
+        "assets-encoded/public__assets__strokes.webp.b64"
+      ]
+    },
+    {
+      "path": "public/assets/table.webp",
+      "group": "site textures",
+      "bytes": 83174,
+      "sha256": "c057b8ab757474637140e603807981440f7a8a08dc5f88ac11ce8cad38cf2c2b",
+      "parts": [
+        "assets-encoded/public__assets__table.webp.b64"
+      ]
+    },
+    {
+      "path": "public/assets/table_form.webp",
+      "group": "site textures",
+      "bytes": 1500,
+      "sha256": "9f007f745a35740698579b1202bc7fbcb4ba0f02513663c45a787db008708cd6",
+      "parts": [
+        "assets-encoded/public__assets__table_form.webp.b64"
+      ]
+    },
+    {
+      "path": "src/assets/fonts/fraunces-italic-latin.woff2",
+      "group": "subset web fonts",
+      "bytes": 72356,
+      "sha256": "827dde3571a900fa3fa297cc40d81e11fd20c7e631ae3cf79d802932a40f98ae",
+      "parts": [
+        "assets-encoded/src__assets__fonts__fraunces-italic-latin.woff2.b64"
+      ]
+    },
+    {
+      "path": "src/assets/fonts/fraunces-latin.woff2",
+      "group": "subset web fonts",
+      "bytes": 56564,
+      "sha256": "30fb673e1d3cbabe23360214f5fd353496eddf2852b18961eb72d6a661f0f72d",
+      "parts": [
+        "assets-encoded/src__assets__fonts__fraunces-latin.woff2.b64"
+      ]
+    },
+    {
+      "path": "src/assets/fonts/mashanzheng-subset.woff2",
+      "group": "subset web fonts",
+      "bytes": 18672,
+      "sha256": "54ed2dea0395d6b3a850d0adb7235403844db54a50598d5ecd2d022eecfc1ecf",
+      "parts": [
+        "assets-encoded/src__assets__fonts__mashanzheng-subset.woff2.b64"
+      ]
+    },
+    {
+      "path": "src/assets/fonts/notoserifsc-subset.woff2",
+      "group": "subset web fonts",
+      "bytes": 223768,
+      "sha256": "9ec4cf4d008cef88dbdcd2628a52e33bdbbca6406dc6df73d011d8997b6d4732",
+      "parts": [
+        "assets-encoded/src__assets__fonts__notoserifsc-subset.woff2.b64"
+      ]
+    },
+    {
+      "path": "art/raw/01_master.webp",
+      "group": "archived AI generations (WebP q90 of the original PNGs)",
+      "bytes": 425046,
+      "sha256": "7766cd5512f8489128f656b9d343a590368b2176574453eba035deee987b8384",
+      "parts": [
+        "assets-encoded/art__raw__01_master.webp.b64"
+      ]
+    },
+    {
+      "path": "art/raw/02_strokes.webp",
+      "group": "archived AI generations (WebP q90 of the original PNGs)",
+      "bytes": 325318,
+      "sha256": "83aad96079fa7a23d7684d586988041f0a66981ef13abc1f1e2ec7d3cdc88b52",
+      "parts": [
+        "assets-encoded/art__raw__02_strokes.webp.b64"
+      ]
+    },
+    {
+      "path": "art/raw/03_layer_bg.webp",
+      "group": "archived AI generations (WebP q90 of the original PNGs)",
+      "bytes": 484754,
+      "sha256": "2a09d07c9d0c1a8c36aad27cff53ed264113715e57949dcf3ef7f0ed409733c8",
+      "parts": [
+        "assets-encoded/art__raw__03_layer_bg.webp.part0.b64",
+        "assets-encoded/art__raw__03_layer_bg.webp.part1.b64"
+      ]
+    },
+    {
+      "path": "art/raw/04_layer_mid.webp",
+      "group": "archived AI generations (WebP q90 of the original PNGs)",
+      "bytes": 415418,
+      "sha256": "f2535db866b0b63429339fcb1d18fe5c8995299e0c10d26bfa117ed5bf266180",
+      "parts": [
+        "assets-encoded/art__raw__04_layer_mid.webp.b64"
+      ]
+    },
+    {
+      "path": "art/raw/05_layer_table.webp",
+      "group": "archived AI generations (WebP q90 of the original PNGs)",
+      "bytes": 243518,
+      "sha256": "a98086b6a68f545edfe42d83346d7ede836a4727afe5c92d7eb7cd0fc55279f0",
+      "parts": [
+        "assets-encoded/art__raw__05_layer_table.webp.b64"
+      ]
+    },
+    {
+      "path": "art/raw/06_layer_fg.webp",
+      "group": "archived AI generations (WebP q90 of the original PNGs)",
+      "bytes": 77576,
+      "sha256": "8bf5507cbe8cb8075a735a37683750c29973432e89cdf3f97b755a4270f90429",
+      "parts": [
+        "assets-encoded/art__raw__06_layer_fg.webp.b64"
+      ]
+    },
+    {
+      "path": "art/raw/07_depth.webp",
+      "group": "archived AI generations (WebP q90 of the original PNGs)",
+      "bytes": 74032,
+      "sha256": "1bef6f9282c75b93f6cc32ee82d858bda1a6852a4873eea3a5bfe2c4e4a6c1a2",
+      "parts": [
+        "assets-encoded/art__raw__07_depth.webp.b64"
+      ]
+    },
+    {
+      "path": "art/raw/08_petals.webp",
+      "group": "archived AI generations (WebP q90 of the original PNGs)",
+      "bytes": 359228,
+      "sha256": "1f19345053fc96f5d0742864457883f0c81dbec47262a1e11eb788eb64139db8",
+      "parts": [
+        "assets-encoded/art__raw__08_petals.webp.b64"
+      ]
+    },
+    {
+      "path": "art/raw/09_seedhead.webp",
+      "group": "archived AI generations (WebP q90 of the original PNGs)",
+      "bytes": 769994,
+      "sha256": "811f0eb5ad0c25db5a162e11e1678e00192dcb194828fc670cd840d95d1caa33",
+      "parts": [
+        "assets-encoded/art__raw__09_seedhead.webp.part0.b64",
+        "assets-encoded/art__raw__09_seedhead.webp.part1.b64"
+      ]
+    },
+    {
+      "path": "art/raw/10_canvas.webp",
+      "group": "archived AI generations (WebP q90 of the original PNGs)",
+      "bytes": 505776,
+      "sha256": "1d72ef975015167df470cbc9f03d2a61e6e9a776e6305c8a183695312256d839",
+      "parts": [
+        "assets-encoded/art__raw__10_canvas.webp.part0.b64",
+        "assets-encoded/art__raw__10_canvas.webp.part1.b64"
+      ]
+    }
+  ]
+}

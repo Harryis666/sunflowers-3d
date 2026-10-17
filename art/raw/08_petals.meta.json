@@ -1,0 +1,27 @@
+{
+  "name": "08_petals",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "transparent",
+  "inputs": [],
+  "prompt": "A botanical specimen sheet of fourteen individual sunflower ray petals on a fully transparent background, arranged in two neat horizontal rows of seven, every petal vertical with its narrow base at the bottom and pointed tip at the top, with generous empty space so that no two petals touch. Each petal is painted in thick Van Gogh-style impasto oil paint: one or two loaded strokes of chrome yellow, lemon yellow and orange, with bristle grooves running along the length, raised ridges, a slightly ragged pointed tip and a faint green-ochre tint at the base. Varied shapes: slender, broad, slightly curled, a few wilting and twisted. Straight-on view, soft raking light, no shadow, no text.",
+  "revised_prompt": null,
+  "usage": {
+    "input_tokens": 153,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 153
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+      "image_tokens": 1372,
+      "text_tokens": 0
+    },
+    "total_tokens": 1525
+  },
+  "seconds": 31.26,
+  "created": "2026-10-14T05:39:45.535Z",
+  "output": "art/raw/08_petals.png"
+}

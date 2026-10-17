@@ -1,0 +1,27 @@
+{
+  "name": "09_seedhead",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/generations",
+  "size": "1024x1024",
+  "quality": "high",
+  "background": "transparent",
+  "inputs": [],
+  "prompt": "A single circular sunflower seed head (the central disc only, no petals) seen perfectly straight-on, filling the frame as a perfect circle on a fully transparent background. Painted in extremely thick Van Gogh-style impasto: hundreds of crusty dabs of dark umber, olive green, burnt sienna and ochre paint arranged in interlocking golden-angle Fibonacci spirals, slightly domed, a greenish-ochre centre, a ring of tiny yellow florets around the rim. Soft raking light reveals the rough bristling relief. No petals, no stem, no text.",
+  "revised_prompt": null,
+  "usage": {
+    "input_tokens": 124,
+    "input_tokens_details": {
+      "image_tokens": 0,
+      "text_tokens": 124
+    },
+    "output_tokens": 915,
+    "output_tokens_details": {
+      "image_tokens": 915,
+      "text_tokens": 0
+    },
+    "total_tokens": 1039
+  },
+  "seconds": 29.15,
+  "created": "2026-10-14T05:39:43.446Z",
+  "output": "art/raw/09_seedhead.png"
+}

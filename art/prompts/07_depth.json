@@ -1,0 +1,11 @@
+{
+  "name": "07_depth",
+  "inputs": [
+    "art/raw/01_master.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "input_fidelity": "high",
+  "prompt": "Convert this painting into a clean monocular depth map with exactly the same framing: grayscale only, the nearest blurred foreground elements pure white, the vase and bouquet light-to-mid grey with smooth rounded volume (domed flower heads, cylindrical vase, round stems), the table a smooth gradient from light grey at the bottom to darker grey at the back, and the flat wall the darkest uniform dark grey. Smooth continuous gradients that follow object shapes; no brushstrokes, no texture, no colour, no text."
+}

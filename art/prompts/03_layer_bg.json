@@ -1,0 +1,11 @@
+{
+  "name": "03_layer_bg",
+  "inputs": [
+    "art/raw/01_master.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "input_fidelity": "high",
+  "prompt": "Edit this painting. Remove the vase, every sunflower, bud, stem and leaf, the fallen sunflower head, all fallen petals and all of the blurred out-of-focus foreground elements at the left, right and bottom edges. Inpaint every area that was hidden so that ONLY the empty scene remains: the luminous pale lemon-yellow wall of short hatched brushstrokes and the empty warm ochre table, with the thin blue horizontal line where wall meets table kept at exactly the same height. Same Van Gogh impasto brushwork, same palette and lighting, everything in sharp focus. Keep the exact same framing and size. No objects, no text."
+}

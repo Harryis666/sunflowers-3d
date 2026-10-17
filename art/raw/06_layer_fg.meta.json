@@ -1,0 +1,29 @@
+{
+  "name": "06_layer_fg",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "transparent",
+  "inputs": [
+    "art/raw/01_master.png"
+  ],
+  "prompt": "Isolate a cut-out from this painting: keep ONLY the large blurred out-of-focus foreground elements at the extreme edges of the frame - the big blurry sunflower and leaf on the left edge, the blurry petals and leaves on the right edge and the blurry petals along the bottom edge - with their soft bokeh blur preserved, same positions and scale. Remove the sharp vase, the bouquet, the wall, the table and the fallen sunflower; make the whole centre and every removed area fully transparent. No text.",
+  "revised_prompt": null,
+  "usage": {
+    "input_tokens": 1653,
+    "input_tokens_details": {
+      "image_tokens": 1536,
+      "text_tokens": 117
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+      "image_tokens": 1372,
+      "text_tokens": 0
+    },
+    "total_tokens": 3025
+  },
+  "seconds": 52.807,
+  "created": "2026-10-14T05:40:07.080Z",
+  "output": "art/raw/06_layer_fg.png"
+}

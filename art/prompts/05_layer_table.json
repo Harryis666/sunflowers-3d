@@ -1,0 +1,12 @@
+{
+  "name": "05_layer_table",
+  "inputs": [
+    "art/raw/01_master.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "output_format": "png",
+  "background": "transparent",
+  "input_fidelity": "high",
+  "prompt": "Isolate a cut-out from this painting: keep ONLY the fallen sunflower head with its leaves lying on the table at the lower right, and the loose fallen petals scattered on the table, exactly as painted, same positions and scale, crisp impasto. Remove the vase, the bouquet, the wall, the table surface itself and all blurred foreground elements at the left, right and bottom edges; make all of those areas fully transparent. Clean edges, no halo, no text."
+}

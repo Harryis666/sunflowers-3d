@@ -1,0 +1,14 @@
+[
+ {"id":"crown","x":850,"y":170,"r":150,"stage":"bloom"},
+ {"id":"left","x":388,"y":214,"r":82,"stage":"bloom"},
+ {"id":"heart","x":630,"y":272,"r":110,"stage":"bloom"},
+ {"id":"wilt-left","x":438,"y":420,"r":82,"stage":"wilt"},
+ {"id":"seed-mid","x":762,"y":428,"r":86,"stage":"seed"},
+ {"id":"right","x":1008,"y":362,"r":78,"stage":"bloom"},
+ {"id":"seed-right","x":956,"y":506,"r":86,"stage":"seed"},
+ {"id":"wilt-top","x":1076,"y":180,"r":72,"stage":"wilt"},
+ {"id":"droop","x":1150,"y":582,"r":92,"stage":"wilt"},
+ {"id":"bud-top","x":612,"y":86,"r":46,"stage":"bud"},
+ {"id":"bud-left","x":516,"y":160,"r":40,"stage":"bud"},
+ {"id":"bud-right","x":1180,"y":330,"r":50,"stage":"bud"}
+]

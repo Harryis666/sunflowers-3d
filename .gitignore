@@ -1,0 +1,24 @@
+# dependencies & builds
+node_modules/
+dist/
+*.tsbuildinfo
+
+# secrets — the image API key lives only in .env.local
+.env
+.env.*
+!.env.example
+
+# binaries are committed as base64 under assets-encoded/ and restored by `npm run assets`
+public/assets/*.webp
+public/assets/*.png
+src/assets/fonts/*.woff2
+art/raw/*.png
+art/raw/*.webp
+art/aligned/*.png
+art/raw/*.log
+
+# local tooling (screenshots and filmed demo output stay out of the repo)
+qa/shots/
+qa/video/
+qa/video-*/
+.DS_Store

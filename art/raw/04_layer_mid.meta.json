@@ -1,0 +1,29 @@
+{
+  "name": "04_layer_mid",
+  "model": "gpt-image-2.5-sunburst",
+  "endpoint": "images/edits",
+  "size": "1536x1024",
+  "quality": "high",
+  "background": "transparent",
+  "inputs": [
+    "art/raw/01_master.png"
+  ],
+  "prompt": "Isolate a cut-out from this painting: keep ONLY the earthenware vase together with its sunflower bouquet (all blooms, buds, wilted heads, seed heads, stems and leaves attached to the bouquet), exactly as painted, same position, same scale, crisp focus, thick impasto preserved. Remove the wall, the table, the fallen sunflower head lying on the table, the fallen petals and all blurred foreground elements at the edges; make all of those areas fully transparent. Clean edges, no halo, no shadow, no text.",
+  "revised_prompt": null,
+  "usage": {
+    "input_tokens": 1660,
+    "input_tokens_details": {
+      "image_tokens": 1536,
+      "text_tokens": 124
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+      "image_tokens": 601,
+      "text_tokens": 0
+    },
+    "total_tokens": 2261
+  },
+  "seconds": 26.878,
+  "created": "2026-10-14T05:39:41.145Z",
+  "output": "art/raw/04_layer_mid.png"
+}
